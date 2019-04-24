@@ -24,8 +24,7 @@ public class Exercise_06_05 {
 	}
 
 	/** displaySortedNumbers Method displays three numbers in increasing order */
-	public static void displaySortedNumbers(
-		double num1, double num2, double num3) {
+	public static void displaySortedNumbers(double num1, double num2, double num3) {
 		double temp; // Hold number to swap
 		
 		if (num2 < num1 && num2 < num3){
